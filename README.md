@@ -1,2 +1,2 @@
 # Eggma-Tracker
-IOS app that helps people with Eczema keep track of their scratching habits.
+IOS app that helps people with Eczema keep track of their scratching habits and reduce scratching through gamification.
