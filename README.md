@@ -1,2 +1,2 @@
-# Ec
+# MyEczema
 IOS app that helps people with Eczema keep track of their scratching habits and reduce scratching with gamification.
